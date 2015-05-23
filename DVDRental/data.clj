@@ -1,0 +1,1 @@
+[{:name "movie1", :quantity 10, :price 3.5} {:name "movie2", :quantity 2, :price 3.0} {:name "movie3", :quantity 6, :price 4.0} {:name "movie4", :quantity 2, :price 2.5} {:name "movie5", :quantity 3, :price 3.0}]
