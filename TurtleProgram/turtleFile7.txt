@@ -1,0 +1,9 @@
+move 12
+turn 90
+$k = 2
+repeat 2
+  repeat $k
+    move 2
+  end
+  $k = 1
+end

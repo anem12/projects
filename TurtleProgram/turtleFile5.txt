@@ -1,0 +1,16 @@
+$k = 4
+$count = 2
+repeat $k
+	move 4
+	turn 90
+		repeat $count
+			repeat 2
+			penUp
+			move 10
+			turn 360
+			end
+		penDown
+		move $k
+		end
+	$count = $k
+end

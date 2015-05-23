@@ -1,0 +1,7 @@
+$length = 10
+penDown
+repeat 4
+move $length
+turn 90
+end
+move $length

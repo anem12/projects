@@ -1,0 +1,14 @@
+penDown
+$k = 2
+repeat $k
+	move 1
+	turn 20
+	$length = 3
+		repeat $length
+			penUp
+			move 10
+			penDown
+		end
+end
+
+
