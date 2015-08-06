@@ -8,7 +8,6 @@ state automata. It follows the description in Chapter 2 of Jurafsky and
 Martin (2008).
 
 @author: Chandana Rekha
-@organization: Dept. of Linguistics, San Diego State University
 @contact: anem@mail.sdsu.edu
 @date: 17-January-2015
 
